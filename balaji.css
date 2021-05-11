@@ -1,0 +1,30 @@
+.b1{display: inline;background-color: lightblue;font-size: larger;}
+ .b2{color:white;display: inline;background-color: lightblue;font-size: larger;}              
+  .f{color:white}          
+   .logo{background-color: lightblue; } 
+   .footer2{font-size:small}           
+   .footer{width: 100vw; margin-top: 25px;} 
+   .br{text-align: center;}           
+    .whatsappnav{color:white; font-size: 20px;} 
+    .message{margin-bottom: 15px;}        
+    
+    .productlist{list-style-type: none; color:black; }
+    
+    .contactus{line-height: 2;}
+    .navbar2{margin-bottom: 15px;}
+.plist{color:black}
+
+a {text-decoration:none}
+
+        body{background: radial-gradient(lightyellow, green); }
+        @media only screen and (min-width: 500px) {
+            header {
+              display: none;
+            }
+          }
+
+          @media only screen and (max-width: 500px) {
+            .brand {
+              display: none;
+            }
+          }
